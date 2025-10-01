@@ -41,10 +41,10 @@ Open index.html in your browser
 
 Enter your city and click Check Weather
 
-Live Demo
+Live Demo--> https://rohit12412021.github.io/Weather-Detector/
 
 See it in action!
-
+Author-->Rohit Yadav
 Author-->Rohit
 
-Your Name – GitHub Profile
+Your Name – GitHub Profil
