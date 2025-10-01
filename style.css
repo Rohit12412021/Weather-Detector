@@ -1,0 +1,53 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+.navbarbox{
+height:90px;
+display: flex;
+align-items: center;
+
+}
+.texttop{
+    display: flex;
+    font-size: 90px;
+    background: linear-gradient(to bottom, #00f9ff 0%, #00bfff 40%, #0059b3 100%);
+
+
+}
+.navbarbox{
+    background-color: aliceblue;
+    
+}
+.navbar::-webkit-input-placeholder{
+    font-size: larger;
+}
+.navbar{
+    font-size: larger;
+}
+#searchbutton{
+    font-size: larger;
+}
+.weatherresult{
+    height:60vh;
+    width:50vw;
+     background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+  -ms-flex-align: stretch;
+  font-size: 30px;
+  border-radius: 2%;
+   /* start slightly smaller */
+
+}
+.oo{
+    color:red
+}
+.foooter{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 90px;
+}
